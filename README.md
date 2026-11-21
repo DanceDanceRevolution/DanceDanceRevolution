@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://64.media.tumblr.com/e6e9d89a220724f2ecacf44e40260f6c/956172a2a8797ca7-37/s400x600/203997b8351e8634a0ffdf998d9f3014860a1cf4.pnj" width="250"> </p>
 <hr>
-<p align="center"> ASTER - IV - PICTO ; THEY HE IT ; AGENDER MAN ; ADULT
+<h3 align="center"> ASTER - IV - PICTO ; THEY HE IT ; AGENDER MAN ; ADULT</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/927fc536d3bca2ebe3cb37afaa97db9f/0c1f633973cc5118-96/s100x200/c930e5b4d06ae0a697da6322c1ccbe2967a515be.webp">
